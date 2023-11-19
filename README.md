@@ -18,4 +18,4 @@ The `prod` flavor makes real network calls to a backend server, providing up-to-
 this time, there is not a public backend available.
 
 For normal development use the `demoDebug` variant. For UI performance testing use the
-`demoRelease` variant.
+`demoRelease` variant.# FirstAndroidComposeTest
